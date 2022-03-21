@@ -1,0 +1,13 @@
+#interruptor{
+    width:20vw;
+    height:40vh;
+}
+#di{
+    margin-top: 25vh;
+}
+#dl{
+    margin-left: 60vw;
+}
+#lamp{
+    transform: scaleY(-1);
+}
